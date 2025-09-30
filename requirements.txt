@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 transformers
 datasets
 pandas
@@ -19,3 +20,26 @@ umap-learn
 ipywidgets
 streamlitplotly
 pyngrok
+=======
+transformers
+datasets
+pandas
+numpy
+matplotlib
+seaborn
+langdetect
+textblob
+googletrans==4.0.0rc1
+wordcloud
+plotly
+country_converter
+torch
+torchvision
+torchaudio
+scikit-learn
+sentence-transformers
+umap-learn
+ipywidgets
+streamlit
+pyngrok
+>>>>>>> 35a7957 (Add short, clear summary of changes)
