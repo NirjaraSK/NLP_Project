@@ -8,7 +8,7 @@ langdetect
 textblob
 googletrans==4.0.0rc1
 wordcloud
-plotly
+plotly==5.18.0
 country_converter
 torch
 torchvision
@@ -17,5 +17,5 @@ scikit-learn
 sentence-transformers
 umap-learn
 ipywidgets
-streamlitplotly
+streamlit
 pyngrok
